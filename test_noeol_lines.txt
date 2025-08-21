@@ -1,0 +1,4 @@
+Voici
+un text
+de plusieurs lignes
+sans end of line ;)
