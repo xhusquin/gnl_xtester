@@ -18,4 +18,6 @@ launch just gnl_xtester.out, you can not change the text.
 
 Hope it help ;)
 
-PS: You can also use make valgrind on Linux as Leaks are an important concept to understand for this project in my mind.
+PS: You can also use make valgrind or make valgrind_bonus on Linux as Leaks are an important concept to understand for this project in my mind.
+
+PS2: Take in consideration that the result did not confirm that you will pass the project, I made it just as a visual helper to help to make your code.
