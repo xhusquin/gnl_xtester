@@ -17,3 +17,5 @@ for the bonus, type make bonus.
 launch just gnl_xtester.out, you can not change the text.
 
 Hope it help ;)
+
+PS: You can also use make valgrind on Linux as Leaks are an important concept to understand for this project in my mind.
